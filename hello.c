@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-  int a = 10;
+  int a = 20;
   print("value of a is %d\n", a);
 }
